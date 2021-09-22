@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Motunrayo Dage
 - 👀 I’m interested in anything that has to do with coding
 - 🌱 I’m currently learning how to code as a newbie
-- 💞️ I’m looking to collaborate on codes
+- 💞️ I’m looking to collaborate on learning codes
 - 📫 You can reach me through slack
 
 <!---
